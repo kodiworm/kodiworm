@@ -59,25 +59,11 @@ Here are some ideas to get you started:
 -->
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kodiworm&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=dark&hide_border=false" /> 
-</td>
+<!--- github stats (start) -->
+### Here's my github stats:
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kodiworm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=kodiworm&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=radical)](https://git.io/streak-stats) 
 <!--- stats (end) -->
 
 
