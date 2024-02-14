@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=FFCA28)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify&logoColor=FFCA28)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFCA28)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3498DB)&nbsp;
 
 <!--- Tech Stack (end) -->
 
