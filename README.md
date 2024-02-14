@@ -8,7 +8,7 @@
       <h1 style="display: inline-block">
         Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Kelvin Maingi
       </h1>
-      <a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+      <a href="https://linkedin.com/in/kelvin-maingi/"><img src="https://img.shields.io/badge/-Kelvin%20Maingi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     </summary>
   </ul>
 </div>
