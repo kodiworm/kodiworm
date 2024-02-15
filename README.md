@@ -31,7 +31,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **PWA, React, Bun, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Microservices for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AZ-900** then later **AZ-204**
 
