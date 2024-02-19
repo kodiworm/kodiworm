@@ -8,6 +8,7 @@
       <h1 style="display: inline-block">
         Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Kelvin Maingi
       </h1>
+      <h4>Take a quick look at my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/cv.azzar_budiyanto.pdf" target="_blank">resume</a> for more info.</h4>
     </summary>
   </ul>
 </div>
