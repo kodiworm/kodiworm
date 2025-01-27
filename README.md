@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### Here's my github stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodiworm&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=radical)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kodiworm&theme=radical)](https://git.io/streak-stats)
 <!--- stats (end) -->
 
 
