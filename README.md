@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <!--- github stats (start) -->
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=kodiworm&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=radical)](https://git.io/streak-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodiworm&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodiworm&theme=blueberry-duo)](https://git.io/streak-stats) 
 <!--- stats (end) -->
 
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka&logoColor=F37626)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=F37626)&nbsp;
 ![Nest JS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=336791)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=FE6732)&nbsp;
