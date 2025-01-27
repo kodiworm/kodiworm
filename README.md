@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka&logoColor=F37626)&nbsp;
 ![Nest JS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=336791)&nbsp;
