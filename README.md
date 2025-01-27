@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodiworm&show_icons=true&theme=radical) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kodiworm&theme=radical)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kodiworm&theme=github-dark&border_radius=6.5&exclude_days=Sun)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=kodiworm&theme=github-dark&border_radius=6.5&exclude_days=Sun)](https://git.io/streak-stats) -->
 <!--- stats (end) -->
 
 
